@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "200.144.182.24",
+    "username": "allan",
+    "password": "getFire",
+    "port": 22,
+    "remotePath": "//work/node/conceptual-framework/study-case/",
+    "uploadOnSave": true
+}
